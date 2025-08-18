@@ -10,5 +10,18 @@ the potential for comparative urban analysis.
 
 Keywords: Crime analysis · Near-repeat · Clustering
 
+## Data Overview
+
+**Source**: The dataset originates from a collaboration between the ENES Morelia, UNAM, and the Fiscalía General de Michoacán.  
+**Note**: The data are **not public**. Access is restricted due to the terms of the agreement between the institutions.
+
 ## Repository Structure
 
+
+## Publication
+
+This repository supports the paper published at MICAI 2025 (24th Mexican International Conference on Artificial Intelligence), held from November 3–7, 2025, in Guanajuato, Mexico. The code here reproduces the experiments and results featured in that paper.
+
+## Contact
+
+For questions regarding the code or if you would like to learn more about the methodology, please contact the repository owner via GitHub or email at [valeriagarcesmendoza@gmail.com]
