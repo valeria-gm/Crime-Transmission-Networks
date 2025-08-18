@@ -17,6 +17,7 @@ Keywords: Crime analysis · Near-repeat · Clustering
 
 ## Repository Structure
 
+```plaintext
 Crime-Transmission-Networks/
 ├── src/                                       # Source code
 │   └── CrimeTransmissionFunctions.py          # Core functions for network creation and analysis
@@ -25,7 +26,7 @@ Crime-Transmission-Networks/
 ├── results/                                   # Generated results (maps, figures, plots)
 ├── requirements.txt                           # Python dependencies
 └── README.md                                  # Project documentation
-
+```
 
 ## Publication
 
