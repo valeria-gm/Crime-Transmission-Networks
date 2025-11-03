@@ -20,9 +20,11 @@ Keywords: Crime analysis · Near-repeat · Clustering
 ```plaintext
 Crime-Transmission-Networks/
 ├── src/                                       # Source code
-│   └── CrimeTransmissionFunctions.py          # Core functions for network creation and analysis
+│   └── CrimeTransmissionFunctions.py          # Core functions for network creation 
+│   └── DayNightAnalysisFunctions.py           # Functions for day-night analysis
 ├── notebooks/                                 # Jupyter notebooks for experiments
 │   └── MAIN_CrimeTransmissionNetworks.ipynb   # Main notebook to build crime networks
+│   └── DayNightAnalysis.ipynb                 # Notebook to generate transition matrices and clusters
 ├── results/                                   # Generated results (maps, figures, plots)
 ├── requirements.txt                           # Python dependencies
 └── README.md                                  # Project documentation
